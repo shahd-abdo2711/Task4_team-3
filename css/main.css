@@ -175,6 +175,9 @@ top: calc(100% + 1px);
   justify-content: center;
 }
 }
+.go-down i{
+  color: var(--main-color);
+}
 .container  .main-nav > li > a::before{
   content: '';
   position: absolute;
